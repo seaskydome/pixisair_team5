@@ -1,0 +1,10 @@
+C:\Users\osker\source\repos\PixisAir_Team5\PixisAir_Team5\bin\Debug\PixisAir_Team5.exe.config
+C:\Users\osker\source\repos\PixisAir_Team5\PixisAir_Team5\bin\Debug\PixisAir_Team5.exe
+C:\Users\osker\source\repos\PixisAir_Team5\PixisAir_Team5\bin\Debug\PixisAir_Team5.pdb
+C:\Users\osker\source\repos\PixisAir_Team5\PixisAir_Team5\obj\Debug\PixisAir_Team5.csproj.AssemblyReference.cache
+C:\Users\osker\source\repos\PixisAir_Team5\PixisAir_Team5\obj\Debug\PixisAir_Team5.Properties.Resources.resources
+C:\Users\osker\source\repos\PixisAir_Team5\PixisAir_Team5\obj\Debug\PixisAir_Team5.csproj.GenerateResource.cache
+C:\Users\osker\source\repos\PixisAir_Team5\PixisAir_Team5\obj\Debug\PixisAir_Team5.csproj.CoreCompileInputs.cache
+C:\Users\osker\source\repos\PixisAir_Team5\PixisAir_Team5\obj\Debug\PixisAir_Team5.exe
+C:\Users\osker\source\repos\PixisAir_Team5\PixisAir_Team5\obj\Debug\PixisAir_Team5.pdb
+C:\Users\osker\source\repos\PixisAir_Team5\PixisAir_Team5\obj\Debug\PixisAir_Team5.MainForm.resources
