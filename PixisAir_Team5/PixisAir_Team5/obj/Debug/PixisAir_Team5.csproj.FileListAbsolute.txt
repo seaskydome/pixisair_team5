@@ -8,3 +8,15 @@ C:\Users\osker\source\repos\PixisAir_Team5\PixisAir_Team5\obj\Debug\PixisAir_Tea
 C:\Users\osker\source\repos\PixisAir_Team5\PixisAir_Team5\obj\Debug\PixisAir_Team5.exe
 C:\Users\osker\source\repos\PixisAir_Team5\PixisAir_Team5\obj\Debug\PixisAir_Team5.pdb
 C:\Users\osker\source\repos\PixisAir_Team5\PixisAir_Team5\obj\Debug\PixisAir_Team5.MainForm.resources
+C:\Users\1395445\Source\Repos\pixisair_team5\PixisAir_Team5\PixisAir_Team5\bin\Debug\PixisAir_Team5.exe.config
+C:\Users\1395445\Source\Repos\pixisair_team5\PixisAir_Team5\PixisAir_Team5\bin\Debug\PixisAir_Team5.exe
+C:\Users\1395445\Source\Repos\pixisair_team5\PixisAir_Team5\PixisAir_Team5\bin\Debug\PixisAir_Team5.pdb
+C:\Users\1395445\Source\Repos\pixisair_team5\PixisAir_Team5\PixisAir_Team5\obj\Debug\PixisAir_Team5.csproj.AssemblyReference.cache
+C:\Users\1395445\Source\Repos\pixisair_team5\PixisAir_Team5\PixisAir_Team5\obj\Debug\PixisAir_Team5.csproj.SuggestedBindingRedirects.cache
+C:\Users\1395445\Source\Repos\pixisair_team5\PixisAir_Team5\PixisAir_Team5\obj\Debug\PixisAir_Team5.MainForm.resources
+C:\Users\1395445\Source\Repos\pixisair_team5\PixisAir_Team5\PixisAir_Team5\obj\Debug\PixisAir_Team5.OskarForm1.resources
+C:\Users\1395445\Source\Repos\pixisair_team5\PixisAir_Team5\PixisAir_Team5\obj\Debug\PixisAir_Team5.Properties.Resources.resources
+C:\Users\1395445\Source\Repos\pixisair_team5\PixisAir_Team5\PixisAir_Team5\obj\Debug\PixisAir_Team5.csproj.GenerateResource.cache
+C:\Users\1395445\Source\Repos\pixisair_team5\PixisAir_Team5\PixisAir_Team5\obj\Debug\PixisAir_Team5.csproj.CoreCompileInputs.cache
+C:\Users\1395445\Source\Repos\pixisair_team5\PixisAir_Team5\PixisAir_Team5\obj\Debug\PixisAir_Team5.exe
+C:\Users\1395445\Source\Repos\pixisair_team5\PixisAir_Team5\PixisAir_Team5\obj\Debug\PixisAir_Team5.pdb
