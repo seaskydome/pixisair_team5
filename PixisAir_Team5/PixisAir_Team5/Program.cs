@@ -16,7 +16,11 @@ namespace PixisAir_Team5
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
+<<<<<<< HEAD
             Application.Run(new OskarForm1());
+=======
+            Application.Run(new tonyForm());
+>>>>>>> cfffd09cdf6d416bc514a476b31bd0c9b8f717b9
         }
     }
 }

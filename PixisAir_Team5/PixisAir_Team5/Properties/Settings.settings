@@ -5,10 +5,17 @@
     <Setting Name="PixisAirConnectionString" Type="(Connection string)" Scope="Application">
       <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
 &lt;SerializableConnectionString xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+<<<<<<< HEAD
   &lt;ConnectionString&gt;Data Source=v2studentpoc;Initial Catalog=PixisAir;Persist Security Info=True;User ID=Student;Password=ichooseGateway&lt;/ConnectionString&gt;
   &lt;ProviderName&gt;System.Data.SqlClient&lt;/ProviderName&gt;
 &lt;/SerializableConnectionString&gt;</DesignTimeValue>
       <Value Profile="(Default)">Data Source=v2studentpoc;Initial Catalog=PixisAir;Persist Security Info=True;User ID=Student;Password=ichooseGateway</Value>
+=======
+  &lt;ConnectionString&gt;Data Source=V2STUDENTPOC;Initial Catalog=PixisAir;User ID=Student;Password=ichooseGateway&lt;/ConnectionString&gt;
+  &lt;ProviderName&gt;System.Data.SqlClient&lt;/ProviderName&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">Data Source=V2STUDENTPOC;Initial Catalog=PixisAir;User ID=Student;Password=ichooseGateway</Value>
+>>>>>>> cfffd09cdf6d416bc514a476b31bd0c9b8f717b9
     </Setting>
   </Settings>
 </SettingsFile>
