@@ -16,7 +16,7 @@ namespace PixisAir_Team5
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new tonyForm());
+            Application.Run(new MainForm());
         }
     }
 }
