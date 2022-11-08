@@ -39,5 +39,17 @@ namespace PixisAir_Team5
         {
             this.Close();
         }
+
+        private void btnTony_Click(object sender, EventArgs e)
+        {
+            tonyForm tony = new tonyForm();
+            tony.Show();
+        }
+
+        private void btnOskar1_Click(object sender, EventArgs e)
+        {
+            OskarForm1 oskar = new OskarForm1();
+            oskar.Show();
+        }
     }
 }
