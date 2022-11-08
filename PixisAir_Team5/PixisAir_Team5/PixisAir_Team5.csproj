@@ -52,15 +52,14 @@
     <Compile Include="MainForm.Designer.cs">
       <DependentUpon>MainForm.cs</DependentUpon>
     </Compile>
-<<<<<<< HEAD
+
     <Compile Include="OskarForm1.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="OskarForm1.Designer.cs">
       <DependentUpon>OskarForm1.cs</DependentUpon>
     </Compile>
-=======
->>>>>>> cfffd09cdf6d416bc514a476b31bd0c9b8f717b9
+
     <Compile Include="PixisAirDataSet.Designer.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
@@ -89,12 +88,11 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
-<<<<<<< HEAD
-=======
+
     <EmbeddedResource Include="tonyForm.resx">
       <DependentUpon>tonyForm.cs</DependentUpon>
     </EmbeddedResource>
->>>>>>> cfffd09cdf6d416bc514a476b31bd0c9b8f717b9
+
     <None Include="PixisAirDataSet.xsc">
       <DependentUpon>PixisAirDataSet.xsd</DependentUpon>
     </None>
